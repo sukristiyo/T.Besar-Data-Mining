@@ -45,5 +45,9 @@ c. Upload dokumen pada repository tersebut
     d. Video presentasi
 ```
 
+## Link Video Presentasi
+```
+https://youtu.be/1Dk7p4OtZMU
+```
 Presentasi akan tetap dilakukan pada saat UAS Teori / UAS Praktikum, disertai dengan absensi
 dan tanya jawab
